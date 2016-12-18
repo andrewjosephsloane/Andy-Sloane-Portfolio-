@@ -1,5 +1,1 @@
-npm install -g gatsby
-gatsby new docs-site gh:gatsbyjs/gatsby-starter-documentation
-cd docs-site
-gatsby develop
 
